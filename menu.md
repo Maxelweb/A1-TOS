@@ -3,12 +3,14 @@ Mariano Sciacco (1142498)
 
 ### Pizze
 
-- margherita.md
-- capricciosa.md
+- margherita
+- capricciosa
 
 
 ### Primi
 
-- bucatini.md
+- bucatini
+- spaghetti
+
 
 pizzeria Bella Napoli
